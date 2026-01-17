@@ -1,0 +1,9 @@
+
+{
+  "name": "INTERVIEW_WAR_ROOM | Elite Interview Copilot",
+  "description": "The ultimate AI Interview Assistant. Securely designed by bxLabs. Protected by bxSecurity. Powered by Gemini Live.",
+  "requestFramePermissions": [
+    "microphone",
+    "display-capture"
+  ]
+}
